@@ -1,0 +1,2 @@
+下载安装完 npm install 依赖后
+gshop_client为前台应用(npm start) gshop-server-final为后台应用(启动方式:npm start)

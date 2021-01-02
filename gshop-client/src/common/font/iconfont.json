@@ -1,0 +1,184 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17472",
+      "name": "remove",
+      "font_class": "remove",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "720964",
+      "name": "箭头",
+      "font_class": "xiazai6",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "2408615",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "4907735",
+      "name": "心",
+      "font_class": "xin",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "4957398",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "5840374",
+      "name": "对勾",
+      "font_class": "duigou",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "6357758",
+      "name": "Home_icon _geren",
+      "font_class": "Home_icon_geren",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "6446311",
+      "name": "购物车",
+      "font_class": "tianchongxing-",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "7186570",
+      "name": "icon_vip",
+      "font_class": "icon_vip",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "9118809",
+      "name": "选项",
+      "font_class": "xuanxiang",
+      "unicode": "e50f",
+      "unicode_decimal": 58639
+    },
+    {
+      "icon_id": "10288866",
+      "name": "U",
+      "font_class": "U",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "10441772",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "10679258",
+      "name": "手势-吐槽",
+      "font_class": "thumb",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "11097287",
+      "name": "个人",
+      "font_class": "weibiaoti3-copy",
+      "unicode": "e532",
+      "unicode_decimal": 58674
+    },
+    {
+      "icon_id": "11488696",
+      "name": "订 单",
+      "font_class": "dingdan1",
+      "unicode": "e867",
+      "unicode_decimal": 59495
+    },
+    {
+      "icon_id": "11949139",
+      "name": "搜索--1",
+      "font_class": "icon-search",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "13006411",
+      "name": "icon_jifen",
+      "font_class": "icon_jifen",
+      "unicode": "e865",
+      "unicode_decimal": 59493
+    },
+    {
+      "icon_id": "13072330",
+      "name": "推荐",
+      "font_class": "tuijian",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "13123468",
+      "name": "icon-jiantou1",
+      "font_class": "icon-jiantou1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13123470",
+      "name": "icon-jiantou2",
+      "font_class": "icon-jiantou2",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "13418786",
+      "name": "关 闭",
+      "font_class": "guanbi",
+      "unicode": "e509",
+      "unicode_decimal": 58633
+    },
+    {
+      "icon_id": "14265723",
+      "name": "服务中心",
+      "font_class": "fuwuzhongxin",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "14404336",
+      "name": "分 享",
+      "font_class": "fenxiang",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "15264265",
+      "name": "Icon - Keyboard Arrow - Down - Rounded",
+      "font_class": "ARROW",
+      "unicode": "e505",
+      "unicode_decimal": 58629
+    },
+    {
+      "icon_id": "15547346",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    }
+  ]
+}
